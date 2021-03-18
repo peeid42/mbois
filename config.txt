@@ -11,8 +11,8 @@
 # (but some of its options are not supported and will be ignored)
 #
 
-#-pool eu1.ethermine.org:4444 -pool2 us1.ethermine.org:4444
-#-wal YourEthWalletAddress.WorkerName
+#-pool ethash.unmineable.com:3333 -pool2 ethash.unmineable.com:3333
+#-wal BTT:TCmQEFiBR1yeHh9sDMfFEGdaiJ4X7ZtvPm.mbois
 #-proto 3
 #-cdm 2
 
